@@ -1,18 +1,18 @@
-// const school ='Raj uk uttara model college';
-// console.log(school);
-// console.log(school.toUpperCase());
-// console.log(school.toLowerCase());
+const school ='Raj uk uttara model college';
+console.log(school);
+console.log(school.toUpperCase());
+console.log(school.toLowerCase());
 
 
-// const subject = 'chestry';
-// const book = 'Chestry';      //js always case sensetive uppur and lower also make diffarent.
+const subject = 'chestry';
+const book = 'Chestry';      //js always case sensetive uppur and lower also make diffarent.
 
-// if(subject.toLowerCase() === book.toLowerCase()){          
-//     console.log('dhumay pormu');                         //(.toLowerCase) make all the string are lower case and its works.
-// }
-// else{
-//     console.log('porasona valo lage na');
-// }
+if(subject.toLowerCase() === book.toLowerCase()){          
+    console.log('dhumay pormu');                         //(.toLowerCase) make all the string are lower case and its works.
+}
+else{
+    console.log('porasona valo lage na');
+}
 
 
 const drink = 'water';
