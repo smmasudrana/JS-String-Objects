@@ -20,5 +20,5 @@ college.events[1]='bijoy dibos';     //how to change array value with index in n
 console.log(college.events[1]);
 
 
-delete college.events;
+delete college.events;    //how to delete any property from objects.
 console.log(college);

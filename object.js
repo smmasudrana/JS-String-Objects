@@ -16,3 +16,14 @@ const subject ={
         marks:'100',
     }
 }
+
+
+//type 2 object declaration
+const pencil= new Object()
+console.log(pencil)
+
+//type 3 object declaration
+const rubber= Object.create({})
+console.log(rubber)
+
+
